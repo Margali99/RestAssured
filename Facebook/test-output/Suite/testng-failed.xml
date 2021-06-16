@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="CreateMap(failed)">
+    <classes>
+      <class name="com.Automation.CreateMap">
+        <methods>
+          <include name="postTest" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.Automation.CreateMap -->
+    </classes>
+  </test> <!-- CreateMap(failed) -->
+</suite> <!-- Failed suite [Suite] -->
