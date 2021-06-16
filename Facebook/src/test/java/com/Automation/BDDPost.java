@@ -13,6 +13,8 @@ public class BDDPost {
 	@Test
 	public void post() {
 		
+		//test pull
+		
 		String strPath = "{\r\n"
 				+ "    \"firstname\" : \"Jim\",\r\n"
 				+ "    \"lastname\" : \"Brown\",\r\n"
